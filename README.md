@@ -18,5 +18,5 @@ Thierry Alboussière, Jezabel Curbelo, Fabien Dubuffet, Stéphane
 Labrosse and Yanick Ricard,
 A playground for compressible natural convection with a nearly uniform
 density,
-*J. Fluid Mech.*, submitted.
+*J. Fluid Mech.*, in press.
   
